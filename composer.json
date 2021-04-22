@@ -8,6 +8,7 @@
     ],
     "license": "MIT",
     "require": {
+        "symfony/flex": "^1.12.2",
         "php": "^7.3|^8.0",
         "cloudinary-labs/cloudinary-laravel": "^1.0",
         "fideloper/proxy": "^4.4",
@@ -15,8 +16,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.12",
         "laravel/tinker": "^2.5",
-        "tcg/voyager": "^1.4",
-        "silex/silex": "~1.1"
+        "tcg/voyager": "^1.4"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
